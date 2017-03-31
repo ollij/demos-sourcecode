@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hello-world-react-client-side-solution",
+    "id": "fe911afa-3923-4f27-8c02-f0854b2d8f03",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hello-world-react.sppkg"
+  }
+}

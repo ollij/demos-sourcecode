@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "c0fe9a9d-ab97-43fc-8a4a-acad9b799b42",
+  "alias": "HelloKittyWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "c0fe9a9d-ab97-43fc-8a4a-acad9b799b42",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloKitty" },
+    "description": { "default": "HelloKitty description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloKitty"
+    }
+  }]
+}

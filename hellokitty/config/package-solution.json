@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "hellokitty-client-side-solution",
+    "id": "72b9ff92-1611-4dc7-94a2-03c518ed1cc2",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/hellokitty.sppkg"
+  }
+}

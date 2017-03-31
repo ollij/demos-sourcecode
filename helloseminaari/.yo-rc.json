@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "helloseminaari",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "90494bb4-ed23-4eb9-915d-8dc30cb0c40d"
+  }
+}

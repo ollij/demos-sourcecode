@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "6acdf852-5b1f-4e5d-9639-4ace4ade4c63",
+  "alias": "HelloSeminaariWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "6acdf852-5b1f-4e5d-9639-4ace4ade4c63",
+    "group": { "default": "Under Development" },
+    "title": { "default": "HelloSeminaari" },
+    "description": { "default": "HelloSeminaari description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "HelloSeminaari"
+    }
+  }]
+}

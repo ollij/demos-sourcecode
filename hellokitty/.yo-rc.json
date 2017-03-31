@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "hellokitty",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "72b9ff92-1611-4dc7-94a2-03c518ed1cc2"
+  }
+}

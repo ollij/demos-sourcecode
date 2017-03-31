@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloKitty/HelloKittyWebPart.js",
+      "manifest": "./src/webparts/helloKitty/HelloKittyWebPart.manifest.json",
+      "outputPath": "./dist/hello-kitty.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "helloKittyStrings": "webparts/helloKitty/loc/{locale}.js"
+  }
+}

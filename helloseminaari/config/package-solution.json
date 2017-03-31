@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "helloseminaari-client-side-solution",
+    "id": "90494bb4-ed23-4eb9-915d-8dc30cb0c40d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/helloseminaari.sppkg"
+  }
+}

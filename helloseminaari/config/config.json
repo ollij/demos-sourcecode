@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/helloSeminaari/HelloSeminaariWebPart.js",
+      "manifest": "./src/webparts/helloSeminaari/HelloSeminaariWebPart.manifest.json",
+      "outputPath": "./dist/hello-seminaari.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "helloSeminaariStrings": "webparts/helloSeminaari/loc/{locale}.js"
+  }
+}
